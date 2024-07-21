@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Other files and directories to ignore
+.DS_Store
+.env
+dist/
+build/
